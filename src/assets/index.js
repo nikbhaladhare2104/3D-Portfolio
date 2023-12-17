@@ -29,6 +29,7 @@ import walmart from "./company/walmart.png"
 import jpmorgan from "./company/jpmorgan.png"
 import skyscanner from "./company/skyscanner.png"
 
+import promptopia from "./promptopia.png"
 import ai_summarizer from "./ai_summarizer.png"
 import noteTaking from "./noteTaking.png"
 import travel from "./travel.png"
@@ -67,6 +68,7 @@ export {
   jpmorgan,
   skyscanner,
   
+  promptopia,
   ai_summarizer,
   noteTaking,
   travel,

@@ -24,6 +24,7 @@ import {
     shopify,
     skyscanner,
 
+    promptopia,
     ai_summarizer,
     noteTaking,
     travel,
@@ -256,6 +257,32 @@ import {
   ];
   
   const projects = [
+    {
+      name: "Promptopia",
+      description:
+        "Promptopia is an open-source AI prompting tool for modern world to discover, create and share creative prompts",
+      tags: [
+        {
+          name: "next.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "next-auth",
+          color: "green-text-gradient",
+        },
+        {
+          name: "react.js",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Tailwind CSS",
+          color: "yellow-text-gradient",
+        },
+      ],
+      website_url : "https://promptopia-nb.vercel.app/",
+      image: promptopia,
+      source_code_link: "https://github.com/nikbhaladhare2104/Promptopia",
+    },
     {
       name: "Article Summarizer",
       description:
